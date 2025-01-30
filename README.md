@@ -13,7 +13,7 @@ The study explores the foundations of quantum measurement and demonstrates the t
 
 ### French Version
 - **Titre**: Étude de la Mesure Quantique et Application à l'Effet Zénon  
-- **Fichier**: [Rapport_Effet_Zeno_FR.pdf](link_to_french_report)  
+- **Fichier**: [rapport-stage_Zenon-effect_HUET-Theo_2024.pdf](link_to_french_report)  
 - **Résumé**: Ce rapport traite des bases théoriques de la mesure quantique, en se concentrant sur les postulats de la mécanique quantique. Il examine l'Effet Zénon à travers une analyse théorique, une modélisation mathématique, et des résultats expérimentaux, soulignant son utilité pour la stabilisation des états quantiques en informatique quantique.
 
 ## 📚 Topics Covered
