@@ -41,4 +41,4 @@ Special thanks to my supervisor, **Mr. Lorenzo Fratino**, for his invaluable gui
 If you have any questions or suggestions, feel free to reach out:
 - **Name**: Théo Huet  
 - **Email**: theo6huet@gmail.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/th%C3%A9o-huet-9a2bb0347/)
+- **LinkedIn**: [theo-huet](https://www.linkedin.com/in/theo-huet/)
